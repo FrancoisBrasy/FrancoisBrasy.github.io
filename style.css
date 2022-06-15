@@ -43,7 +43,7 @@ header{
 body {
 }
 #accueil {
-  background-image:url("../images/Hamburg.jpg");
+  background-image:url("images/La limousine.PNG");
   background-repeat :no-repeat;
   width:100%;
   height:720px;
@@ -129,6 +129,12 @@ section {
   display:flex;
   justify-content: center;
   text-align:center;
+  background-image :url("../images/swegg2.jpg");
+  background-size:100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 #grand_container {
